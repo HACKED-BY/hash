@@ -13,4 +13,4 @@ git clone https://github.com/HACKED-BY/hash
 
 cd hash
 
-python hash.py
+python2 hash.py
